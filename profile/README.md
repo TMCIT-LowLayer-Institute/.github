@@ -32,7 +32,7 @@ TMCIT-LowLayer-Instituteは、TMCITの低レイヤー技術に興味を持つ学
 
 TMCIT-LowLayer-Instituteへの参加を希望する方は、以下の連絡先までお気軽にお問い合わせください。
 
- - ** Unixtech-06 **
+ - **Unixtech-06**
 
 ---
 **注意:** このREADME.mdはプロジェクトに合わせて修正することができます。必要に応じて、プロジェクトの詳細や連絡先などを追加してください。
